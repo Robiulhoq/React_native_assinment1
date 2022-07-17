@@ -1,0 +1,1 @@
+export const speching = [35, 50, 160, 20]
